@@ -1,9 +1,13 @@
 {
   "name": "cloudflare-fetch-retries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Because Cloudflare's network is unstable and it drops connections more often than most.",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacwright/cloudflare-fetch-retries.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
